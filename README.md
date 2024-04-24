@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joa-seo
 - 👀 I’m interested in SEO, writing, content creation
-- 🌱 I’m currently learning JS, SEO
+- 🌱 I’m currently learning JS, Python, ...SEO...
 - 💞️ I’m looking to collaborate on website conception, novels, videos
 - 📫 How to reach me : @joakaratweet
 - 😄 Pronouns: her
